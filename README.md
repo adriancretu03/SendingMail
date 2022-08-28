@@ -1,2 +1,2 @@
 # SendingMail
-made a script where you can send emails to multiple friend using a template message
+You have to generate an app password from gmail so this script can help you send emails to your friends.
