@@ -1,0 +1,5 @@
+Hi {name},
+
+I send this email to you just by using my Python skills. What do you say? 
+
+Your friend, Adrian!
